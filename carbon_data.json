@@ -1,0 +1,12 @@
+{
+  "beef": {"co2": 27.0, "unit": "kg", "swap": "Lentils", "swap_co2": 0.9},
+  "chicken": {"co2": 6.9, "unit": "kg", "swap": "Paneer", "swap_co2": 5.2},
+  "paneer": {"co2": 5.2, "unit": "kg", "swap": "Tofu", "swap_co2": 3.0},
+  "butter": {"co2": 9.2, "unit": "kg", "swap": "Ghee (Local)", "swap_co2": 7.5},
+  "milk": {"co2": 3.2, "unit": "kg", "swap": "Oat Milk", "swap_co2": 0.9},
+  "rice": {"co2": 4.0, "unit": "kg", "swap": "Millets", "swap_co2": 1.2},
+  "nuts": {"co2": 0.3, "unit": "kg", "swap": "Roasted Chana", "swap_co2": 0.2},
+  "lentils": {"co2": 0.9, "unit": "kg", "swap": "None", "swap_co2": 0.9},
+  "oil": {"co2": 3.5, "unit": "kg", "swap": "Mustard Oil", "swap_co2": 2.1},
+  "sugar": {"co2": 2.5, "unit": "kg", "swap": "Jaggery", "swap_co2": 1.8}
+}
