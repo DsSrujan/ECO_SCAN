@@ -1,2 +1,1 @@
-eco for life
-badge 
+echo
